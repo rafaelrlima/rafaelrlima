@@ -1,4 +1,6 @@
 ## Olá!!! Eu sou o Rafa 😊
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Lima-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafarlima/)](https://www.linkedin.com/in/rafarlima/) 
+[![Gmail Badge](https://img.shields.io/badge/-rafaelrlima@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelrlima@gmail.com)](mailto:rafaelrlima@gmail.com)
 
 - 🔭 Hoje trabalho com Auditoria Contínua
 - 🌱 Atualmente estudo Mestrado em Engeharia Elétrica
@@ -18,10 +20,4 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
 
-## Contato
- 
-<div>
-  <a href = "mailto:rafaelrlima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafarlima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+
