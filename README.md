@@ -14,16 +14,12 @@ Atualmente, desempenho o papel de Analytics Engineer - Auditor Interno no Banco 
 
 ## Artigos
 
-| Título        |
-| :---:          |
-| [Manipulando dados com Pandas, Polars e PySpark](https://medium.com/@rafaelrlima_54619/manipulando-dados-com-pandas-polars-e-pyspark-b1c444e95815) |
+- [Manipulando dados com Pandas, Polars e PySpark](https://medium.com/@rafaelrlima_54619/manipulando-dados-com-pandas-polars-e-pyspark-b1c444e95815)
 
 ## Publicações
 
-| Título        |
-| :---:          |
-| [Unbalanced Dataset](https://github.com/rafaelrlima/unbalanced_dataset) |
-| [Manipulando dados com Pandas, Polars e PySpark](https://github.com/rafaelrlima/pandas_polars_pyspark) |
+- [Unbalanced Dataset](https://github.com/rafaelrlima/unbalanced_dataset)
+- [Manipulando dados com Pandas, Polars e PySpark](https://github.com/rafaelrlima/pandas_polars_pyspark)
 
 
 ## Badges & Certificações
