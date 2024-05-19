@@ -29,6 +29,7 @@ Atualmente, desempenho o papel de Analytics Engineer - Auditor Interno no Banco 
 | [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/55d8bc64-3633-4fd1-a9a5-722363ea4acb/linked_in_profile) | Amazon Web Services | <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100" height="100"> |
 | [Associate - Data Science](https://brasilopenbadge.com.br/pages/badge/23d6bea6674cb8054bc5e893e237ae1f)  | Itaú Unibanco  | <img src="https://brasilopenbadge.com.br/badge/3707.png" width="100" height="100"> |
 | [Associate - Analytics Engineering](https://www.brasilopenbadge.com.br/pages/badge/7704b8bfd0ee62325b47c1091f5ec969)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/5219.png" width="100" height="100"> |
+| [Associate - Data Engineering](https://www.brasilopenbadge.com.br/pages/badge/26c912720a9d29bc942de1e181acf9e7)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3712.png" width="100" height="100"> |
 | [Privacy Champion](https://www.brasilopenbadge.com.br/pages/badge/afa6804733dd47b7adeb5166bc4dcb72)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3208.png" width="100" height="100"> |
 
 
