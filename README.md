@@ -35,7 +35,7 @@ Atualmente, desempenho o papel de Analytics Engineer - Auditor Interno no Banco 
 | [Associate - Data Modelling](https://www.brasilopenbadge.com.br/pages/badge/afa6804733dd47b7adeb5166bc4dcb72)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3710.png" width="100" height="100"> |
 | [Associate - Machine Learning Engineering](https://www.brasilopenbadge.com.br/pages/badge/afa6804733dd47b7adeb5166bc4dcb72)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3709.png" width="100" height="100"> |
 | [Practitioner - Leadership D&A](https://www.brasilopenbadge.com.br/pages/badge/afa6804733dd47b7adeb5166bc4dcb72)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3706.png" width="100" height="100"> |
-| [Practitioner - D&A Foundation]https://brasilopenbadge.com.br/pages/badge/c599ad548907e98bc1733d30c13f5e15)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3694.png" width="100" height="100"> |
+| [Practitioner - D&A Foundation](https://brasilopenbadge.com.br/pages/badge/c599ad548907e98bc1733d30c13f5e15)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3694.png" width="100" height="100"> |
 
 
 
