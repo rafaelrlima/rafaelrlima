@@ -31,10 +31,10 @@ Atualmente, desempenho o papel de Analytics Engineer - Auditor Interno no Banco 
 | [Associate - Analytics Engineering](https://www.brasilopenbadge.com.br/pages/badge/7704b8bfd0ee62325b47c1091f5ec969)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/5219.png" width="100" height="100"> |
 | [Associate - Data Engineering](https://www.brasilopenbadge.com.br/pages/badge/26c912720a9d29bc942de1e181acf9e7)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3712.png" width="100" height="100"> |
 | [Privacy Champion](https://www.brasilopenbadge.com.br/pages/badge/afa6804733dd47b7adeb5166bc4dcb72)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3208.png" width="100" height="100"> |
-| [Associate - Data Products](e21c38d796e5a2f24c566f567dc71f8a)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/4048.png" width="100" height="100"> |
-| [Associate - Data Modelling](https://www.brasilopenbadge.com.br/pages/badge/afa6804733dd47b7adeb5166bc4dcb72)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3710.png" width="100" height="100"> |
-| [Associate - Machine Learning Engineering](https://www.brasilopenbadge.com.br/pages/badge/afa6804733dd47b7adeb5166bc4dcb72)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3709.png" width="100" height="100"> |
-| [Practitioner - Leadership D&A](https://www.brasilopenbadge.com.br/pages/badge/afa6804733dd47b7adeb5166bc4dcb72)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3706.png" width="100" height="100"> |
+| [Associate - Data Products](https://www.brasilopenbadge.com.br/pages/badge/e21c38d796e5a2f24c566f567dc71f8a)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/4048.png" width="100" height="100"> |
+| [Associate - Data Modelling](https://www.brasilopenbadge.com.br/pages/badge/666eb9ba4e75aa6155e147a19ec7b020)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3710.png" width="100" height="100"> |
+| [Associate - Machine Learning Engineering](https://www.brasilopenbadge.com.br/pages/badge/22bede0aee67e1f7178eb01125ba7cb9)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3709.png" width="100" height="100"> |
+| [Practitioner - Leadership D&A](https://www.brasilopenbadge.com.br/pages/badge/6c5bd863df543849fe07b445ce9c733e)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3706.png" width="100" height="100"> |
 | [Practitioner - D&A Foundation](https://brasilopenbadge.com.br/pages/badge/c599ad548907e98bc1733d30c13f5e15)  | Itaú Unibanco  | <img src="https://www.brasilopenbadge.com.br/badge/3694.png" width="100" height="100"> |
 
 
