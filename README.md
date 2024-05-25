@@ -8,7 +8,7 @@ Seja bem-vindo(a) ao meu perfil, espero que esteja bem. 😊
 
 Atualmente, desempenho o papel de Analytics Engineer - Auditor Interno no Banco Itaú Unibanco, ocupando uma posição crucial em uma coordenação especializada em dados e auditoria continua. Minha expertise inclui a rápida assimilação de diversos temas e a aplicação de conhecimentos na concepção de programas de auditoria contínua, que abrangem automações, estudos e controles. Atuo na correlação de dados provenientes de sistemas diversos, extraindo insights valiosos e mitigando riscos.
 
-- 🔭 Hoje trabalho com Auditoria Contínua
+- 🔭 Hoje trabalho com Dados e Auditoria Contínua
 - 🌱 Atualmente estudo Mestrado em Engeharia Elétrica na Escola Politécnica da Universidade de São Paulo - POLIUSP
 - 😄 Pronouns: Ele/Dele
 
