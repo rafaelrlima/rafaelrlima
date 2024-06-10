@@ -38,7 +38,7 @@ Atualmente, desempenho o papel de Analytics Engineer - Auditor Interno no Banco 
 | [Practitioner - Leadership D&A](https://www.credly.com/badges/be39efe1-8dac-4e73-8977-9a6e99b8fec4)  | Itaú Unibanco  | <img src="https://images.credly.com/size/340x340/images/eec6f18d-b9f4-4d72-b55d-d802e4ad4e79/image.png" width="100" height="100"> |
 | [Practitioner - D&A Foundation](https://www.credly.com/badges/561d8a6d-e2bb-44f7-8e83-2b59c1725d70)  | Itaú Unibanco  | <img src="https://images.credly.com/size/340x340/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png" width="100" height="100"> |
 | [Lifelong Learning](https://www.credly.com/badges/d1e13a64-e178-4111-8f41-80f98f9ed7b5)  | CertiProf  | <img src="https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="100" height="100"> |
-| [Scrum Foundation Professional Certification - SFPC™](https://www.credly.com/badges/6145a393-63a2-48da-a48f-818f82144928)  | CertiProf  | <img src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/CertiProf-Badge-LLL.png" width="100" height="100"> |
+| [Scrum Foundation Professional Certification - SFPC™](https://www.credly.com/badges/6145a393-63a2-48da-a48f-818f82144928)  | CertiProf  | <img src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="100" height="100"> |
 
 
 
