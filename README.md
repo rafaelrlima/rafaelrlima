@@ -6,9 +6,15 @@ Desculpe a bagunça. Portifólio em reconstrução :-)
 
 Seja bem-vindo(a) ao meu perfil, espero que esteja bem. 😊
 
-Atualmente, desempenho o papel de Analytics Engineer - Auditor Interno no Banco Itaú Unibanco, ocupando uma posição crucial em uma coordenação especializada em dados e auditoria continua. Minha expertise inclui a rápida assimilação de diversos temas e a aplicação de conhecimentos na concepção de programas de auditoria contínua, que abrangem automações, estudos e controles. Atuo na correlação de dados provenientes de sistemas diversos, extraindo insights valiosos e mitigando riscos.
+Sou especialista em Ciência de Dados, Engenharia de Dados e Data Analytics, com mais de 10 anos de experiência em transformar grandes volumes de dados em insights estratégicos e mensuráveis para otimizar processos e reduzir riscos. Minhas Data-Driven Solutions e ETL Automation geraram ganhos substanciais para empresas, permitindo análises avançadas e decisões baseadas em dados em tempo real. Além das habilidades técnicas, possuo forte capacidade de colaboração, comunicação interpessoal e pensamento analítico, o que me permite traduzir insights complexos em estratégias acionáveis para diferentes áreas da empresa.
 
-- 🔭 Hoje trabalho com Dados e Auditoria Contínua
+Com ampla experiência em Machine Learning, Big Data e Business Intelligence, desenvolvo soluções integrando tecnologias como Python, SQL, Power BI e plataformas de nuvem (AWS, Azure). Em projetos recentes, implementei automações que aumentaram a eficiência de auditorias e criei modelos preditivos que melhoraram a precisão em áreas de Gestão de Riscos e Auditoria Interna.
+
+Estou comprometido em fomentar uma cultura onde Data Analytics e decisões orientadas a dados estão no centro das operações, impulsionando inovação sustentável e elevando a performance organizacional.
+
+Vamos nos conectar para discutir como posso agregar valor ao seu negócio!
+
+- 🔭 Hoje trabalho na área de Dados e Pesquisa
 - 🌱 Atualmente estudo Mestrado em Engeharia Elétrica na Escola Politécnica da Universidade de São Paulo - POLIUSP
 - 😄 Pronouns: Ele/Dele
 
