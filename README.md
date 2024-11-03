@@ -20,6 +20,7 @@ Atualmente, desempenho o papel de Analytics Engineer - Auditor Interno no Banco 
 
 - [Unbalanced Dataset](https://github.com/rafaelrlima/unbalanced_dataset)
 - [Manipulando dados com Pandas, Polars e PySpark](https://github.com/rafaelrlima/pandas_polars_pyspark)
+- [Simple Linear Regression (Regressão Linear Simples)](https://github.com/rafaelrlima/simple-linear-regression)
 
 
 ## Badges & Certificações
