@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Lima-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafarlima/)](https://www.linkedin.com/in/rafarlima/) 
 [![Gmail Badge](https://img.shields.io/badge/-rafaelrlima@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelrlima@gmail.com)](mailto:rafaelrlima@gmail.com)
 
-Desculpe a bagunça. Portifólio em reconstrução :-)
+Desculpe a bagunça. Portfólio em reconstrução :-)
 
 Seja bem-vindo(a) ao meu perfil, espero que esteja bem. 😊
 
@@ -32,6 +32,7 @@ Vamos nos conectar para discutir como posso agregar valor ao seu negócio!
 
 | Título  | Certificadora | Badge |
 | ------------- | ------------- | ------------- |
+| [Academy Accreditation - Databricks Fundamentals](https://credentials.databricks.com/3a97def7-c904-4e53-b904-cb468285f5f1#acc.cpjtLhAg) | Databricks | <img src="" width="100" height="100"> |
 | [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/55d8bc64-3633-4fd1-a9a5-722363ea4acb) | Amazon Web Services | <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100" height="100"> |
 | [Gestão de Riscos - Trained](https://www.credly.com/badges/af2f7391-dfe2-459d-9d8f-2d56d1f598b5)  | Itaú Unibanco  | <img src="https://images.credly.com/size/340x340/images/92c6274a-eb95-4d35-88da-0e29e8e82aa1/image.png" width="100" height="100"> |
 | [Associate - Responsible AI Champion](https://www.credly.com/badges/51b7b293-f10e-4349-b9b9-58c81c1aee63)  | Itaú Unibanco  | <img src="https://images.credly.com/size/340x340/images/b2b6af9b-7a05-4b0a-9ebb-a2e2687baa30/image.png" width="100" height="100"> |
