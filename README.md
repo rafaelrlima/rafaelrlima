@@ -32,6 +32,7 @@ Vamos nos conectar para discutir como posso agregar valor ao seu negócio!
 
 | Título  | Certificadora | Badge |
 | ------------- | ------------- | ------------- |
+| [Academy Accreditation - Generative AI Fundamentals](https://credentials.databricks.com/22c41a4b-14cb-4448-8f87-5d60c9a50b35#acc.4oQCqwkJ) | Databricks | <img src="https://www.databricks.com/sites/default/files/2023-06/fundamentals-badge-generative-lp.png" width="100" height="100"> |
 | [Academy Accreditation - Databricks Fundamentals](https://credentials.databricks.com/3a97def7-c904-4e53-b904-cb468285f5f1#acc.cpjtLhAg) | Databricks | <img src="https://www.databricks.com/sites/default/files/inline-images/fundamentals-badge-databricks-2x_1.png?v=1722866235" width="100" height="100"> |
 | [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/55d8bc64-3633-4fd1-a9a5-722363ea4acb) | Amazon Web Services | <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="100" height="100"> |
 | [Gestão de Riscos - Trained](https://www.credly.com/badges/af2f7391-dfe2-459d-9d8f-2d56d1f598b5)  | Itaú Unibanco  | <img src="https://images.credly.com/size/340x340/images/92c6274a-eb95-4d35-88da-0e29e8e82aa1/image.png" width="100" height="100"> |
